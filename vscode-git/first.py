@@ -13,6 +13,6 @@ def is_prime(n):
 # Test the function
 number = int(input(" "))
 if is_prime(number):
-    print(f"{number} ")
+    print(f"{number} is a prime number.")
 else:
     print(f"{number} ")
