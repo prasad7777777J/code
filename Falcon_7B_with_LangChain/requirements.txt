@@ -1,0 +1,9 @@
+transformers
+accelerate
+einops
+langchain
+langchain-core
+langchain-huggingface
+ipywidgets
+bitsandbytes
+torch
