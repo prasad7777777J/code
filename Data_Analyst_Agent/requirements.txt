@@ -1,0 +1,9 @@
+openai
+groq
+pandas
+matplotlib
+seaborn
+streamlit
+python-dotenv
+chardet
+numpy
