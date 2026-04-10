@@ -1,0 +1,17 @@
+# Secrets
+.env
+*.env
+
+# Private documents
+innominds-20260224T140939Z-1-001/
+
+# Python clutter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+
+# VS Code
+.vscode/
