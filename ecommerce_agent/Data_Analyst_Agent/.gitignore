@@ -1,0 +1,23 @@
+# API keys — never push this
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.deepeval/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Test outputs
+tests/report.html
+tests/deepeval_report.html
+
+# Debug file
+debug.py
+
+# OS files
+.DS_Store
+Thumbs.db
